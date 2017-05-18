@@ -1,0 +1,16 @@
+"*":
+  "autocomplete-plus":
+    confirmCompletion: "enter"
+  core:
+    disabledPackages: [
+      "autoclose-html"
+    ]
+    telemetryConsent: "no"
+  editor:
+    scrollPastEnd: true
+    showIndentGuide: true
+    softWrap: true
+  "exception-reporting":
+    userId: "33b4ad56-c2a4-7cc5-11e0-64c30dc7d67f"
+  welcome:
+    showOnStartup: false
